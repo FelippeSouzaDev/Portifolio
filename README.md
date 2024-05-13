@@ -6,7 +6,7 @@
   Portfólio criado com o intuito de mostrar meus projetos ao decorrer da minha carreira.
 </h4>
 
-  <img alt="" title="" src="./Imagens/Group 30.jpg/">
+  <img alt="" title="" src="./Imagens/fotoSite.jpg/">
 
 
 <h4 align="center"><a href="https://felippesouzadev.github.io/Portifolio/">Clique para visitar o projeto</a></h4>
