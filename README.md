@@ -9,7 +9,7 @@
   <img alt="" title="" src="./Imagens/Group 30.jpg/">
 
 
-<h4 align="center"><a href="https://www.linkedin.com/in/felippe-s-souza/](https://felippesouzadev.github.io/Portifolio/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://felippesouzadev.github.io/Portifolio/">Clique para visitar o projeto</a></h4>
 
 ## 📚 Seções
 O site é composto por 5 seções diferentes:
